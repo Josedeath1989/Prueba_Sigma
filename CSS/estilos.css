@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500&display=swap");
+* {
+  padding: 3px;
+  margin: 0px;
+  font-family: "Roboto", sans-serif; }
+  * body {
+    margin: 62px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff; }
+    * body header {
+      padding: 10px; }
+  * img {
+    display: block;
+    margin: auto; }
+  * h1 {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: black; }
+  * p {
+    display: block;
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    color: #767474; }
+  * .imagen {
+    width: 500px;
+    height: 500px; }
+  * .box {
+    justify-content: center;
+    width: 500px;
+    height: auto;
+    border-radius: 20px;
+    padding-left: 16px;
+    box-shadow: 2px 3px 12px 8px rgba(0, 0, 0, 0.1), 1px 2px 6px 6px rgba(0, 0, 0, 0);
+    padding: 30px;
+    margin-top: 20px; }
+  * input[type=text], * select {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical; }
+  * .label {
+    color: black; }
+  * .Enviar {
+    color: #fff;
+    background-color: #D93F70;
+    border: none;
+    border-radius: 30px;
+    padding: 15px;
+    width: 150px;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-left: 186px;
+    margin-top: 65px; }
+    * .Enviar:focus, * .Enviar:hover {
+      background-color: #dc3545;
+      color: #fff;
+      outline: 0;
+      transition: background-color 2s ease-out; }
+
+/*# sourceMappingURL=estilos.css.map */
